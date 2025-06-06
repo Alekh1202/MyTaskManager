@@ -24,7 +24,8 @@ Manage your daily tasks with an intuitive UI, persistent storage, and support fo
 ### Installation
 
 1. Clone the repository:
-   ```
+   ```sh
+   git clone https://github.com/Alekh1202/MyTaskManager.git
    cd MyTaskManager
    ```
 
